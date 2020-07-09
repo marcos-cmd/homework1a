@@ -7,6 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
+/* Changes background color for the body of the page */
 
 .header {
     padding: 20px;
@@ -63,17 +64,20 @@ p {
     float: left;
     margin-right: 25px;
 }
+/* Places image to the left of the text within that div */
 
 .float-right {
     float: right;
     margin-left: 25px;
 }
+/* Places image to the right of the text within that div */
 
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+/* Inline-block allows a height and width to be formatted on this element */
 
 .benefits {
     margin-right: 20px;
