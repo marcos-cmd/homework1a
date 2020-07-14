@@ -2,7 +2,7 @@
 
 ##Screenshot of Website
 
-![My Refactor](./assets/livesite.png)
+![My Refactor](assets/livesite.png)
 
 ## Link to Live
 
