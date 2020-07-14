@@ -15,7 +15,7 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
-/* Changed from class to header tag, updated the following accordingly */
+/* Changed to simple selector, updated the following two class selectors accordingly */
 
 h1 {
     display: inline-block;
